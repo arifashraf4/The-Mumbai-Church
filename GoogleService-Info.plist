@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>593374803059-23j0stn4587aj39s6b998o6hvchfeemu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.593374803059-23j0stn4587aj39s6b998o6hvchfeemu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBXf1boqCKjHfLBDiuku8Dh-jx04Fgn_n0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>593374803059</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.arif.The-Mumbai-Church</string>
+	<key>PROJECT_ID</key>
+	<string>ty-churchapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ty-churchapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:593374803059:ios:24508fe63d31bf92142606</string>
+	<key>DATABASE_URL</key>
+	<string>https://ty-churchapp.firebaseio.com</string>
+</dict>
+</plist>
